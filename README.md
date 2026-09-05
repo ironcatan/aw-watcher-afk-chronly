@@ -1,5 +1,10 @@
-aw-watcher-afk
+aw-watcher-afk (Chronly fork)
 ==============
+
+**This is Chronly's AFK watcher, a private fork of ActivityWatch's
+`aw-watcher-afk`, maintained by Manuel Arroyo Algar. Not affiliated with or
+endorsed by the ActivityWatch project.** Licensed under MPLv2, same as
+upstream. No code changes — forked for completeness/independence.
 
 [![Build Status](https://github.com/ActivityWatch/aw-watcher-afk/workflows/Build/badge.svg)](https://github.com/ActivityWatch/aw-watcher-afk/actions)
 
